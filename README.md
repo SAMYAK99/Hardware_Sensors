@@ -1,0 +1,3 @@
+# Hardware_Sensors
+
+An attempt to demonstrate Important Hardware Sensors in Android Smartphone including Proximity Sensor , Accelerometer etc...
